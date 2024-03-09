@@ -6,5 +6,4 @@
 <li>HTML5</li>
 <li>CSS3</li>
 <li>JavaScript</li>
-<br>
 <h2><a href="easycalculator.surge.sh">my_calculator</a></h2>
