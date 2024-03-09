@@ -7,4 +7,4 @@
 <li>HTML%5</li>
 <li>CSS3</li>
 <li>JavaScript</li>
-<p><a href="easycalculator.surge.sh">See on your Browser</a></p>
+<h2><a href="easycalculator.surge.sh">my_calculator</a></h2>
